@@ -14,7 +14,7 @@ Server is now open and accepting connections.
 To run client, open another terminal & run the following command:
 python client1.py 
 
-From here one, any message you type from client terminal, gets printed on the server's terminal, until you type "exit". 
+From here on, any message you type from client terminal, gets printed on the server's terminal, until you type "exit". 
 
 
 
